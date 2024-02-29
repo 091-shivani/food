@@ -1,0 +1,22 @@
+#carousal{
+ max-height: 35rem;
+}
+
+.mycard{
+  margin: 20px;
+}
+
+.countplate{
+  width: 4rem;
+    margin: 0px 31px;
+}
+
+.mynavbar{
+  background-color: #ffc10730;
+}
+
+.mylogin
+{
+  max-width: 50rem;
+    padding: 10rem;
+}
